@@ -4,4 +4,8 @@ train.tsv
 train.tsv.zip
 train*
 val*
-flair*
+requ*
+dev*
+pred_ans_list
+true_ans_list
+questions_list
